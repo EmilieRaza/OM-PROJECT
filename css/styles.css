@@ -11416,3 +11416,23 @@ body{
   border-top-left-radius:30px;
   box-shadow: 0 1rem 3rem rgb(0 0 0 / 18%)!important;
 }
+.cardDirigeant{
+  background: white!important;
+  border-style: solid!important;
+  border-color:white;
+  border-radius:30px!important;
+  box-shadow: 0 1rem 3rem rgb(0 0 0 / 18%)!important;
+  padding:10px;
+}
+.imgDirigeant{
+  height:200px; 
+  width:150px; 
+  border-radius: 10%;
+  background: linear-gradient(180deg, rgba(232, 232, 232 ,0) 35%, rgba(32, 60, 89,1) 100%);
+}
+
+.cardDirigeant:hover{
+  box-shadow: 0 1rem 3rem rgb(0 0 0 / 50%)!important;
+  transition-duration: 0.2s!important;
+  transform: scale(0.9);
+}

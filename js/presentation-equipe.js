@@ -49,10 +49,10 @@ httpjoueurAcceuil.onload = function() {
         let outputprofilJoueur = '';
         console.log(joueurs);
         for (let i = 0; i < (joueurs.length - 44); i++) {
-            outputprofilJoueur += `<div class="col-md-3">
+            outputprofilJoueur += `<div class="col-md-3 mt-5 pt-5">
                                     <div class="cardJoueur1 ">
                                         <img class="w-100 " src="${joueurs[i].image_joueur}">
-                                        <h2  class="h2 text-light py-2">${joueurs[i].prenom} <span class="text-dark">${joueurs[i].nom}</span></h2>
+                                        <h2  class="h2 text-light py-2">${joueurs[i].prenom} <br><span class="text-dark">${joueurs[i].nom}</span></h2>
                                     </div>
                                 </div>`;
 
@@ -81,7 +81,7 @@ httppresentationJoueur.onload = function() {
         for (let j = 0; j < joueurs.length - 18; j++) {
 
             outputdetailJoueur += ` <div class="col-md-6">
-            <div class="row">
+            <div class="row mt-5 pt-5">
                 <div class="col-md-6">
                     <div class="cardJoueur2 ">
                         <img class="w-100 " src="${joueurs[j].image_joueur}">
