@@ -12,7 +12,7 @@ httpEncadrement.onload = function() {
             console.log(joueurs[i].prenom)
 
             outputEncadrement += `
-            <div class="col-md-6">
+            <div class="col-md-6 pt-5 mt-5">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="cardencadrement ">
