@@ -47,7 +47,6 @@ httpjoueurAcceuil.onload = function() {
         let joueurs = JSON.parse(this.responseText);
 
         let outputprofilJoueur = '';
-        console.log(joueurs);
         for (let i = 0; i < (joueurs.length - 44); i++) {
             outputprofilJoueur += `<div class="col-md-3">
                                     <div class="cardJoueur1 ">
@@ -77,7 +76,7 @@ httppresentationJoueur.onload = function() {
     if (this.readyState == 4 && this.status == 200) {
         let joueurs = JSON.parse(this.responseText);
 
-        let outputdetailJoueur = '';
+        var outputdetailJoueur = '';
         for (let j = 0; j < joueurs.length - 18; j++) {
 
             outputdetailJoueur += ` <div class="col-md-6">
