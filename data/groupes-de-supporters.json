@@ -1,0 +1,57 @@
+[{
+        "supporteur": "CLUB DES AMIS DE L'OM",
+        "abreviation": "CAOM",
+        "localisation": "Rue de Lisbonne Bât L11 13480 Cabries",
+        "telephone": "04 42 31 09 34",
+        "emplacement": "Virage Nord"
+    },
+
+    {
+        "supporteur": "COMMANDO ULTRA 84",
+        "abreviation": "CU'84",
+        "localisation": "180 boulevard Rabatau 13010 Marseille",
+        "telephone": "04 91 80 40 25",
+        "emplacement": "Virage Sud"
+    },
+
+    {
+        "supporteur": "DODGER'S",
+        "abreviation": "DM92",
+        "localisation": "3 place Joseph Etienne 13007 Marseille",
+        "telephone": "04 91 52 97 16",
+        "emplacement": "Virage Nord"
+    },
+
+    {
+        "supporteur": "FANATICS",
+        "abreviation": "FAN 88",
+        "localisation": "58 avenue de Montolivet 13004 Marseille",
+        "telephone": "Non renseigné",
+        "emplacement": "Virage Nord"
+    },
+
+    {
+        "supporteur": "HANDIFAN CLUB OM",
+        "abreviation": "Non renseignée",
+        "localisation": "38 allée des pins 13009 Marseille",
+        "telephone": "Non renseigné",
+        "emplacement": "Ganay et Jean-Bouin"
+    },
+
+    {
+        "supporteur": "MARSEILLE TROP PUISSANT",
+        "abreviation": "MTP",
+        "localisation": "29-31 rue des trois Mages 13001 Marseille",
+        "telephone": "04 91 48 44 80",
+        "emplacement": "Virage Nord"
+    },
+
+    {
+        "supporteur": "SOUTH WINNERS",
+        "abreviation": "SW87",
+        "localisation": "100 rue Loubon 13003 Marseille",
+        "telephone": "04 91 05 85 16",
+        "emplacement": "Virage Sud"
+    }
+
+]

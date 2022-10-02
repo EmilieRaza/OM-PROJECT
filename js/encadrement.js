@@ -9,7 +9,6 @@ httpEncadrement.onload = function() {
 
         let outputEncadrement = '';
         for (let i = 34; i < joueurs.length; i++) {
-            console.log(joueurs[i].prenom)
 
             outputEncadrement += `
             <div class="col-md-6 pt-5 mt-5">
