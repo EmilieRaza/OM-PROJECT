@@ -4,7 +4,18 @@
         "nom": "Ngapandouetnbu",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5185/gardien/15268-simon-ngapandouetnbu",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/NGAPANDOUETNBU%20Simon_0029_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/cmcameroonflag_111917.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/cmcameroonflag_111917.png",
+
+        "date_naissance": "12/04/2003",
+        "taille": "86cm / 74kg ",
+        "formation": "01.07.19",
+        "age": "",
+        "club": "",
+        "equipe": ""
+
+
+
+
     },
     {
         "numero": "16",
@@ -12,7 +23,14 @@
         "nom": "López",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5185/gardien/52216-pau-lopez",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/LOPEZ%20Pau_0062_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/esspainflag_111796.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/esspainflag_111796.png",
+
+        "date_naissance": "13/12/1994",
+        "taille": "189cm / 77kg",
+        "formation": "11.06.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "36",
@@ -20,7 +38,14 @@
         "nom": "Blanco",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5185/gardien/66245-ruben-blanco",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/RUBEN%20Blanco_0472_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/esspainflag_111796.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/esspainflag_111796.png",
+
+        "date_naissance": "25/07/1995",
+        "taille": "188cm / 70kg",
+        "formation": "20.07.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "3",
@@ -28,7 +53,14 @@
         "nom": "Bailly",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5183/defenseur/67263-eric-bailly",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/BAILLY%20Eric.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/cicotedeivoireflag_111828.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/cicotedeivoireflag_111828.png",
+
+        "date_naissance": "12/04/1994",
+        "taille": "187cm / 77kg",
+        "formation": "24.08.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "4",
@@ -36,7 +68,14 @@
         "nom": "Gigot",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5183/defenseur/66038-samuel-gigot",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/GIGOT%20Samuel_0144_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "12/10/1993",
+        "taille": "187cm / 75kg",
+        "formation": "29.01.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "5",
@@ -44,7 +83,14 @@
         "nom": "Balerdi",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5183/defenseur/40488-leonardo-balerdi",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/BALERDI%20Leonardo_0095_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/arargentinaflag_111670.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/arargentinaflag_111670.png",
+
+        "date_naissance": "26/01/1999",
+        "taille": "187cm / 85kg",
+        "formation": "03.07.21",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "7",
@@ -52,7 +98,14 @@
         "nom": "Clauss",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5183/defenseur/55171-jonathan-clauss",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/CLAUSS%20Johnatan_0675_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "25/09/1992",
+        "taille": "178cm / 69kg",
+        "formation": "20.07.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "18",
@@ -60,7 +113,14 @@
         "nom": "Touré",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5183/defenseur/65990-souleymane-isaak-toure",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/TOURE%20Isaak_0118_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "28/03/2003",
+        "taille": "206cm / 75kg",
+        "formation": "01.07.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "23",
@@ -68,7 +128,14 @@
         "nom": "Kolasinac",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5183/defenseur/59662-sead-kolasinac",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/KOLASINAC%20Sead_0613_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2022-01/220118_drpaeau_bosnie.jpg"
+        "image_pays": "https://www.om.fr/sites/default/files/2022-01/220118_drpaeau_bosnie.jpg",
+
+        "date_naissance": "20/06/1993",
+        "taille": "2183cm / 85kg",
+        "formation": "18.01.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "29",
@@ -76,7 +143,14 @@
         "nom": "Kaboré",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5183/defenseur/57607-issa-kabore",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/KABORE%20Issa.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/bfburkinafasoflag_111719.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/bfburkinafasoflag_111719.png",
+
+        "date_naissance": "12/05/2001",
+        "taille": "180cm / 72kg",
+        "formation": "17.08.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "30",
@@ -84,7 +158,14 @@
         "nom": "Varela Tavares",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5183/defenseur/66489-nuno-albertino-varela-tavares",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/TAVARES%20Nuno.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/ptportugalflag_111776.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/ptportugalflag_111776.png",
+
+        "date_naissance": "26/01/2000",
+        "taille": "183cm / 75kg",
+        "formation": "30.07.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "38",
@@ -92,7 +173,14 @@
         "nom": "Kamardin",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5183/defenseur/36211-aaron-kamardin",
         "image_joueur": "https://www.om.fr/sites/default/files/2020-08/KAMARDIN%20Aaron_20_0.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "08/04/2002",
+        "taille": "183cm",
+        "formation": "04.06.20",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "99",
@@ -100,7 +188,14 @@
         "nom": "Mbemba",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5183/defenseur/43538-chancel-mbemba",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/MBEMBA%20Chancel_0588_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2022-01/220113_congo.jpg"
+        "image_pays": "https://www.om.fr/sites/default/files/2022-01/220113_congo.jpg",
+
+        "date_naissance": "08/08/1994",
+        "taille": "175cm / 81kg",
+        "formation": "15.07.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "",
@@ -108,7 +203,14 @@
         "nom": "Caprice",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5183/defenseur/52357-amay-caprice",
         "image_joueur": "https://www.om.fr/sites/default/files/2021-08/CAPRICE.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "21/08/2004",
+        "taille": "182cm / 81kg",
+        "formation": "01.07.21",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "6",
@@ -116,7 +218,14 @@
         "nom": "Guendouzi",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/52015-matteo-guendouzi",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/GUENDOUZI%20Matt%C3%A9o_0260_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "14/04/1999",
+        "taille": "185cm / 68kg",
+        "formation": "10.06.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "8",
@@ -124,7 +233,14 @@
         "nom": "Santos da Silva",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/51846-gerson-santos-da-silva",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/GERSON_0498_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/brbrazilflag_111698.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/brbrazilflag_111698.png",
+
+        "date_naissance": "20/05/1997",
+        "taille": "184cm / 78kg",
+        "formation": "01.07.21",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "10",
@@ -132,7 +248,14 @@
         "nom": "Payet",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/14641-dimitri-payet",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/PAYET%20Dimitri_0391_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "29/03/1987",
+        "taille": "175cm / 77kg",
+        "formation": "29.01.17",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "21",
@@ -140,7 +263,14 @@
         "nom": "Rongier",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/16883-valentin-rongier",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/RONGIER%20Valentin_0186_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "07/12/1994",
+        "taille": "172cm / 67kg",
+        "formation": "03.09.19",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "22",
@@ -148,7 +278,14 @@
         "nom": "Gueye",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/36235-pape-gueye",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/GUEYE%20Pape_0652_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/snsenegalflag_111775.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/snsenegalflag_111775.png",
+
+        "date_naissance": "24/01/1999",
+        "taille": "189cm / 79kg",
+        "formation": "01.07.20",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "27",
@@ -156,7 +293,14 @@
         "nom": "Veretout",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/66741-jordan-veretout",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/VERETOUT%20Jordan.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "01/03/1993",
+        "taille": "177cm / 67kg",
+        "formation": "06.08.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "31",
@@ -164,7 +308,14 @@
         "nom": "Bertelli",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/15298-ugo-bertelli",
         "image_joueur": "https://www.om.fr/sites/default/files/2021-08/BERTELLI.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "15/07/2003",
+        "taille": "168cm / 54kg",
+        "formation": "12.06.20",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "34",
@@ -172,7 +323,14 @@
         "nom": "Sciortino",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/52354-paolo-sciortino",
         "image_joueur": "https://www.om.fr/sites/default/files/2021-08/SCIORTINO.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "5/11/2003",
+        "taille": "177cm / 70kg",
+        "formation": "04.06.21",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "39",
@@ -180,7 +338,14 @@
         "nom": "Nadir",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/52363-bilal-nadir",
         "image_joueur": "https://www.om.fr/sites/default/files/2021-08/NADIR.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "02/02/2003",
+        "taille": "176cm / XXkg",
+        "formation": "12.06.20",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "39",
@@ -188,7 +353,14 @@
         "nom": "Rahou",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/36217-jores-rahou",
         "image_joueur": "https://www.om.fr/sites/default/files/2021-08/RAHOU.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "02/02/2000",
+        "taille": "176cm / XXkg",
+        "formation": "12.06.20",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "43",
@@ -196,7 +368,14 @@
         "nom": "Ahmed",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/15178-nassim-ahmed",
         "image_joueur": "https://www.om.fr/sites/default/files/2020-08/AHMED%20Nassim_20_0.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "09/10/2000",
+        "taille": "174cm / 69kg",
+        "formation": "12.06.20",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "77",
@@ -204,7 +383,14 @@
         "nom": "Harit",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5186/milieu/54181-amine-harit",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-09/HARIT%20Amine.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/mamoroccoflag_111704.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/mamoroccoflag_111704.png",
+
+        "date_naissance": "18/06/1997",
+        "taille": "180cm / 67kg",
+        "formation": "01.09.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "11",
@@ -212,7 +398,14 @@
         "nom": "Suárez",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5181/attaquant/66212-luis-suarez",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/SUAREZ%20Luis.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/cocolombiaflag_111878.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/cocolombiaflag_111878.png",
+
+        "date_naissance": "02/12/1997",
+        "taille": "185cm / 74kg",
+        "formation": "19.07.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "12",
@@ -220,7 +413,14 @@
         "nom": "Dieng",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5181/attaquant/47629-bamba-dieng",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/DIENG%20Bamba_0004_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/snsenegalflag_111775.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/snsenegalflag_111775.png",
+
+        "date_naissance": "23/03/2000",
+        "taille": "178cm / 72kg",
+        "formation": "09.02.21",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "17",
@@ -228,7 +428,14 @@
         "nom": "Ünder",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5181/attaquant/51889-cengiz-under",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-07/%C3%9CNDER%20Cengiz_0630_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/trturkeyflag_111676.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/trturkeyflag_111676.png",
+
+        "date_naissance": "14/07/1997",
+        "taille": "173cm / 66kg",
+        "formation": "10.06.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "32",
@@ -236,7 +443,14 @@
         "nom": "Ben Seghir",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5181/attaquant/51816-salim-ben-seghir",
         "image_joueur": "https://www.om.fr/sites/default/files/2021-08/BENSEGHIR.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "24/02/2003",
+        "taille": "174cm / 57kg",
+        "formation": "01.07.21",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "37",
@@ -244,7 +458,14 @@
         "nom": "Gebreyesus",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5181/attaquant/52360-esey-gebreyesus",
         "image_joueur": "https://www.om.fr/sites/default/files/2021-08/GEBREYESUS.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2021-07/drapeau_suisse.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2021-07/drapeau_suisse.png",
+
+        "date_naissance": "23/01/2004",
+        "taille": "178cm / 67kg",
+        "formation": "14.02.21",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "70",
@@ -252,7 +473,14 @@
         "nom": "Sánchez",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5181/attaquant/66885-alexis-sanchez",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/SANCHEZ%20Alexis.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/clchileflag_111729.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/clchileflag_111729.png",
+
+        "date_naissance": "19/12/1988",
+        "taille": "169cm / 62kg",
+        "formation": "10.08.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -260,7 +488,14 @@
         "nom": "Benyahia Tani",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5181/attaquant/15475-aylan-benyahia-tani",
         "image_joueur": "https://www.om.fr/sites/default/files/2021-08/BENYAHIA.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "19/12/1988",
+        "taille": "169cm / 62kg",
+        "formation": "10.08.22",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -268,7 +503,14 @@
         "nom": "Delgado",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5181/attaquant/65132-pedro-ruiz-delgado",
         "image_joueur": "",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/esspainflag_111796.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/esspainflag_111796.png",
+
+        "date_naissance": "30/03/2000",
+        "taille": "196cm / 82kg",
+        "formation": "26.08.21",
+        "age": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -276,7 +518,15 @@
         "nom": "Tudor",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5432/entraineur/66059-igor-tudor",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/IGOR-TUDOR_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/hrcroatiaflag_111812.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/hrcroatiaflag_111812.png",
+
+        "date_naissance": "16/04/1978",
+        "taille": "196cm / 82kg",
+        "formation": "192cm / 88kg",
+        "age": "",
+        "club": "",
+        "equipe": "",
+        "description": ""
     },
     {
         "numero": "0",
@@ -284,7 +534,13 @@
         "nom": "VUKAS",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5438/entraineur-adjoint/66152-hari-vukas",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/HARI_VUKAS.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/hrcroatiaflag_111812.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/hrcroatiaflag_111812.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -292,7 +548,13 @@
         "nom": "Maiuri",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5444/analyste-video/66089-giuseppe-maiuri",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/GIUSEPPE_MAIURI.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/ititalyflag_111732.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/ititalyflag_111732.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -300,7 +562,13 @@
         "nom": "Pascua",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5435/entraineur-des-gardiens/49985-jon-pascua",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/JON-PASCUA_0.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/esspainflag_111796.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/esspainflag_111796.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -308,7 +576,13 @@
         "nom": "Marambaud",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5441/preparateur-physique/67458-gilles-marambaud",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/GILLES_MARAMBAUD.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -316,7 +590,13 @@
         "nom": "Rotondale",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5441/preparateur-physique/66462-mario-rotondale",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/MARIO_ROTONDALE.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/ititalyflag_111732.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/ititalyflag_111732.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -324,7 +604,13 @@
         "nom": "Spignoli",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5441/preparateur-physique/66086-carlo-spignoli",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/CARLO_SPIGNOLI.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/ititalyflag_111732.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/ititalyflag_111732.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -332,7 +618,13 @@
         "nom": "Sbihi",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5971/directeur-technique-medical/45304-abdou-sbihi",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-09/Abdou%20SBIHI.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -340,7 +632,13 @@
         "nom": "Grisoli",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5954/medecin/51708-jean-baptiste-grisoli",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-09/JB_Grisoli.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -348,7 +646,13 @@
         "nom": "Giustiniani",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5968/medecin-adjoint/45322-mathias-giustiniani",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-09/Mathias_Giustiniani-1.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -356,7 +660,12 @@
         "nom": "Espinosa",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5974/nutritionniste/66279-muriel-espinosa",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/MURIEL_ESPINOSA.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -364,7 +673,13 @@
         "nom": "Davin",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5977/osteopathe/45313-gilles-davin",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-09/Gilles_Davin.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -372,7 +687,13 @@
         "nom": "Guer",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5980/podologue/45319-jean-luc-guer",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/JEAN-LUC-GUER_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -380,7 +701,13 @@
         "nom": "Ré",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5983/kinesitherapeute/45331-stephane-re",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/STEPHANE-RE_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -388,7 +715,13 @@
         "nom": "Dyduch",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5983/kinesitherapeute/45334-yannick-dyduch",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/YANNICK-DYDUCH_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -396,7 +729,13 @@
         "nom": "Rahou",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5983/kinesitherapeute/45337-youssef-rahou",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/YOUSSEF-RAHOU_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -404,7 +743,13 @@
         "nom": "Matton",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5983/kinesitherapeute/45325-maxime-matton",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/MAXIME-MATTON_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     },
     {
         "numero": "0",
@@ -412,6 +757,12 @@
         "nom": "Vespignani",
         "detail_url": "https://www.om.fr/fr/effectif/5073/5188/staff/5983/kinesitherapeute/45328-pierre-vespignani",
         "image_joueur": "https://www.om.fr/sites/default/files/2022-08/PIERRE-VESPGNANI_OM.FR_.png",
-        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png"
+        "image_pays": "https://www.om.fr/sites/default/files/2019-08/frfranceflag_111874.png",
+
+        "date_naissance": "",
+        "age": "",
+        "formation": "",
+        "club": "",
+        "equipe": ""
     }
 ]

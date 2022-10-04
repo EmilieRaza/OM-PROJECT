@@ -72,12 +72,23 @@ let httppresentationJoueur = new XMLHttpRequest();
 httppresentationJoueur.open('get', '../data/presentation_des_joueurs.json');
 httppresentationJoueur.send();
 
+
+
+
 httppresentationJoueur.onload = function() {
     if (this.readyState == 4 && this.status == 200) {
         let joueurs = JSON.parse(this.responseText);
 
         var outputdetailJoueur = '';
+        var soustraction = "-";
         for (let j = 0; j < joueurs.length - 18; j++) {
+
+            const moonLanding = new Date(`${joueurs[j].date_naissance}"`);
+
+            let ageJoueur;
+
+            ageJoueur = 2022 - moonLanding.getFullYear()
+            console.log(ageJoueur);
 
             outputdetailJoueur += ` <div class="col-md-6">
             <div class="row mt-5 pt-5">
@@ -87,22 +98,22 @@ httppresentationJoueur.onload = function() {
                     </div>
                 </div>
                 <div class="col-md-6 float-left">
-                    <a class="font1 h3 color1  text-decoration-none">${joueurs[j].prenom}<span class="text-dark">${joueurs[j].nom}</span></a><br><br><br>
+                    <a class="font1 h3 color1  text-decoration-none">${joueurs[j].prenom} <span class="text-dark">${joueurs[j].nom}</span></a><br><br><br>
                     <p class="font1 h6">
                         Nationalité: <img src="${joueurs[j].image_pays}" width="20" height="20" alt="France" typeof="foaf:Image"><BR><BR>
-                        Date de naissance: 29.03.1987 à Saint-Pierre <BR><BR>
-                        Age: 33 ans<BR><BR>
-                        Formation: <small>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetu</small><BR><BR>
-                        Club: <small>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetu</small><BR><BR>
-                        Equipe nationale: <small>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetu</small> <BR><BR>
-                            <a class="nav-link  bg1 text-center text-light" href="${joueurs[j].detail_url}">
+                        Date de naissance: ${joueurs[j].date_naissance} <BR><BR>
+                        Age: ${ageJoueur} ans<BR><BR>
+                        Arrivée au club: <small> ${joueurs[j].formation} </small><BR><BR><BR><BR>
+                        Taille / Poids: <small>${joueurs[j].taille}</small><BR><BR><BR><BR><BR><BR>
+                            <a class="nav-link  bg1 text-center text-light" href="${joueurs[j].detail_url}  target="_blank" ">
                                 En savoir plus</a>
                     </p>
                 </div>
             </div>
         </div>`;
+
         }
         document.querySelector('.detatilJoueur').innerHTML = outputdetailJoueur;
     }
-
+    //PageEquipe nationale: <small>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetu</small> <BR><BR>
 }
